@@ -8,10 +8,6 @@ Traditional library systems require complex training and manual data entry. Smar
 - **Zero Training Needed**: Intuitive interface for staff and patrons
 - **Open Source**: Free to use and modify under MIT license
 
-## 🚀 Video Demo
-[Watch Demo](https://www.loom.com/share/45fd9e6e1d5d47349086cf76abdcedd4?sid=68c42d29-ff88-45c1-b2b1-011d0e5027a4)  
-*(Shows AI recommendations, NL queries, and admin controls)*
-
 ## 🚀 Tech Stack
 | Component       | Technologies Used                             |
 |-----------------|-----------------------------------------------|
@@ -78,6 +74,11 @@ streamlit run app.py
 
 3. **Demo Credentials**
    - Sample books pre-loaded: The Great Gatsby, 1984, The Hobbit
+
+## 🚀 Video Demo
+[![Smart Library System Demo Video](https://cdn.loom.com/sessions/thumbnails/45fd9e6e1d5d47349086cf76abdcedd4-6eddc46c144b74a9-full-play.gif)](https://www.loom.com/share/45fd9e6e1d5d47349086cf76abdcedd4?sid=68c42d29-ff88-45c1-b2b1-011d0e5027a4)
+
+*(Shows AI recommendations, NL queries, and admin controls)*
 
 ## 📜 License
 MIT License - See [LICENSE](https://github.com/sharsha315/smart-library-system/blob/main/LICENSE) for details
