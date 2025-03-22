@@ -73,21 +73,6 @@ def get_recommendation(query):
     except Exception as e:
         return f"Recommendation service unavailable. Error: {str(e)}"
 
-    # llm = ChatGroq(
-    #     temperature=0.7,
-    #     api_key=GROQ_API_KEY,
-    #     model_name="llama3-70b-8192"
-    # )
-    
-    # prompt = f"""You're a friendly librarian. Recommend books from our collection:
-    # Available books: 
-    # - The Great Gatsby (Classic)
-    # - 1984 (Dystopian)
-    # - The Hobbit (Fantasy)
-    # User request: {query}
-    # Respond in 2 short, enthusiastic sentences."""
-    
-    # return llm.invoke(prompt).content
 
 # --- Streamlit UI ---
 def main():
