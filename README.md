@@ -9,7 +9,7 @@ Traditional library systems require complex training and manual data entry. Smar
 - **Open Source**: Free to use and modify under MIT license
 
 ## 🚀 Video Demo
-[Watch 2-Minute Demo](https://your-demo-link-here.com)  
+[Watch Demo](https://www.loom.com/share/45fd9e6e1d5d47349086cf76abdcedd4?sid=68c42d29-ff88-45c1-b2b1-011d0e5027a4)  
 *(Shows AI recommendations, NL queries, and admin controls)*
 
 ## 🚀 Tech Stack
@@ -82,6 +82,6 @@ streamlit run app.py
 ## 📜 License
 MIT License - See [LICENSE](https://github.com/sharsha315/smart-library-system/blob/main/LICENSE) for details
 
-### 📞 Contact
-- Discord: sharsha315
+## 📞 Contact
+- Discord: **sharsha315**
 - X (Twitter): [@sharsha315](https://www.x.com/sharsha315)
